@@ -25,11 +25,30 @@ Coming out of the design jam, I had a list of over 30 pieces of information that
 
 I analyzed over 300 responses to sort the information into three categories: Highest importance, Medium importance, and Lowest importance. After taking into account business needs as well as our technical capacity, I decided upon seven items of contextual information to communicate on our content page and worked with two designers on possible UI elements for signaling the information.
 
+High importance | Medium importance | Low importance
+------------ | ------------- | -------------
+Type of content | Rights of use | Number of views
+Date of creation | Part of a broader collection | Current location
+Similar items on JSTOR | Quality of item | Who acquired
+Where it's originally from | Rights of consumption | Current curator of item
+
 ### User interviews and mapping activity (Remote and in-person)
 
 At this point, I started to think through how to test these designs with users. What I really wanted to know was whether the inputs matched the outputs. That is, we had conducted the design jam and developed a list of information to signal based on our internally stated goal of communicating the authority, curation, access, quality, and provenance of content. If we were successful, users should be able to link information found in the UI to these broader overarching concepts. 
 
-I conducted 11 interviews with students, faculty, and researchers: 5 in-person and 6 remote. I started with semi-structured questions, asking participants what information was most important to them when evaluating content for academic work. The second portion of the interview was an interactive mapping exercise, where participants were presented a prototype and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. 
+I conducted 11 interviews with students, faculty, and researchers: 5 in-person and 6 remote. I started with semi-structured questions, asking participants what information was most important to them when evaluating content for academic work. 
+
+Some questions from the interview guide:
+> When looking at content on JSTOR, how do you evaluate the content? What information are you looking at? 
+<br> <br>
+> What is the most meaningful information?
+<br> <br>
+> How does that information indicate the "authority" of the content to you?
+<br> <br>
+> Is there any contextual information that's not here that you would like to see? 
+<br> <br>
+
+The second portion of the interview was an interactive mapping exercise, where participants were presented a prototype with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. 
 
 ## Impact
 
