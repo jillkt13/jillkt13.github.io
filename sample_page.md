@@ -33,7 +33,7 @@ I conducted 11 interviews with students, faculty, and researchers: 5 in-person a
 
 * Internally, our organization felt that these changes to content type would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with evidence of what users want. 
 * I socialized the above learning very widely: Show and Tell, org-wide Lunch and Learn, and ad hoc meetings with Product Managers. As a result, product teams working to redesign follow two principles I developed: 
-  ** Content is king! Despite the drastic changes to the types of content on our platform, the content—as opposed to accompanying contextual information—should   remain the focus. 
+  ** Content is king! Despite the drastic changes to the types of content on our platform, the content—as opposed to accompanying contextual information—should remain the focus. 
   ** Contextual information should be discoverable on the content page for those who want it, but not distract from the majority of users who are not looking for it
 
 
