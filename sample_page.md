@@ -72,7 +72,6 @@ The second portion of the interview was an interactive mapping exercise, where p
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-![design jam](/images/jam_small_photo.png width="400" height="790")
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
