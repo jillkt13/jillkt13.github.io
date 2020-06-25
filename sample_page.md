@@ -15,6 +15,8 @@ Put high level graphic of the three stages here.
 
 ### Design Jam
 
+<img src="/images/jam_small_photo.png" width="300">
+
 By analyzing prior research, we identified the categories of authority, quality, curation, provenance, and access as being potentially significant information to signal to users in a multi-content environment. The design and research teams then sketched ideas of how we might communicate these five categories on the content page. After the jam, I reviewed all the ideas and developed a list of possible contextual information to signal to users. 
 
 ### Survey
@@ -36,19 +38,19 @@ I conducted 11 interviews with students, faculty, and researchers: 5 in-person a
   1. Content is king! Despite the drastic changes to the types of content on our platform, the content—as opposed to accompanying contextual information—should remain the focus. 
   2. Contextual information should be discoverable on the content page for those who want it, but not distract from the majority of users who are not looking for it
 
+## Reflections
+
+* *Evaluate your assumptions earlier*, rather than later: From the get go, we designed with the goal of communicating the ideas of authority, curation, access, provenance, and quality on the content page. Our research team had decided on these five categories after synthesizing years of prior user feedback. When we finally put these categories in front of users, however, their mental models didn’t correspond to these five categories. Learning that users don’t think of content in this way ended up being one of the most valuable insights from this project, though we probably could have discovered it much earlier if we had spoken to users earlier in the process.
+* *Your ideal method isn’t always possible*: I was set on conducting a sort of first click test using Optimal Workshop. But when the tool simply couldn’t fit the exact need, I had to go back to the drawing board. I was frustrated, but the method I eventually decided on probably led to much richer data, answering not only “what” but also “why”. 
 
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+![design jam](/images/jam_small_photo.png width="400" height="790")
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
