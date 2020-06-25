@@ -3,11 +3,11 @@
 ---
 
 [Contextualizing new content types](/sample_page)
-<img src="images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300">
+<img src="images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="150">
 
 ---
 [Insights are only as good as your available data](/recruiting_strategy)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/group.png" width="150"> 
 
 ---
 [Project 3 Title](http://example.com/)
