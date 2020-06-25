@@ -50,7 +50,7 @@ Some questions from the interview guide:
 
 The second portion of the interview was an interactive mapping exercise, where participants were presented a prototype with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. 
 
-<pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="300"></pre>
+<pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.21.50 AM.png" width="250"> </pre>
 
 
 ## Impact
