@@ -2,11 +2,11 @@
 
 ---
 
-[Contextualizing new content types](/sample_page)
+#### [Contextualizing new content types](/sample_page)
 <img src="images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300">
 
 ---
-[Insights are only as good as your available data](/recruiting_strategy)
+#### [Insights are only as good as your available data](/recruiting_strategy)
 <img src="images/group.png" width="300"> 
 
 ---
