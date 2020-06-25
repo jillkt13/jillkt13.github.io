@@ -1,6 +1,5 @@
 # Contextualizing new content types
 
-## Background: 
 Due to strategic business changes, JSTOR, traditionally a host of academic content like journal articles, was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from academic publishers, but individual contributors with potentially laxer standards regarding content curation. 
 
 To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to identify complementary information that would be helpful to users when encountering these new types of content. 
