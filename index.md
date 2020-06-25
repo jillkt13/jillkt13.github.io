@@ -2,10 +2,8 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Contextualizing new content types](/sample_page)
+<img src="images/Screen Shot 2020-06-25 at 11.17.30 AM.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
