@@ -50,6 +50,9 @@ Some questions from the interview guide:
 
 The second portion of the interview was an interactive mapping exercise, where participants were presented a prototype with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. 
 
+<pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="300"></pre>
+
+
 ## Impact
 
 * Internally, our organization felt that these changes to content type would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with evidence of what users want. 
