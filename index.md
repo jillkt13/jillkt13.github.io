@@ -13,10 +13,9 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-![/sample_page](images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300")
 
-[![Contextualizing][images/Screen Shot 2020-06-25 at 11.17.30 AM.png]][/sample_page]
-
+[//]: # This one works but I haven't been able to get it to function with width sizing. 
+[![Content](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen%20Shot%202020-06-25%20at%2011.17.30%20AM.png "Content")](https://jillkt13.github.io/sample_page)
 
 ---
 
@@ -30,7 +29,14 @@
 
 ---
 
+![/sample_page](images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300")
 
+[![Contextualizing][images/Screen Shot 2020-06-25 at 11.17.30 AM.png]][/sample_page]
+
+[![alt text](images/Screen Shot 2020-06-25 at 11.17.30 AM.png](https://jillkt13.github.io/sample_page)
+
+<img src=""https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen%20Shot%202020-06-25%20at%2011.17.30%20AM.png" width="300">][2]
+[2]: https://jillkt13.github.io/sample_page
 
 
 ---
