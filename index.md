@@ -13,6 +13,11 @@
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+![/sample_page](images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300")
+
+[![Contextualizing][images/Screen Shot 2020-06-25 at 11.17.30 AM.png]][/sample_page]
+
+
 ---
 
 ### Category Name 2
