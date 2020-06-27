@@ -17,7 +17,7 @@ This page is so complicated because it has to do a lot of different things. It n
 
 Given the ambition of this project, I argued in favor of leading a design sprint for our entire team. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I did a lot of preliminary work pulling together prior research, quantitative data, and heatmap data. By doing so, I built our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
 
-<img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="275">
+<img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="2225">
 
 During the design sprint, I led sessions focused on understanding prior research on the page, detailing user journeys, developing a problem statement for this work, and sketching exercises. Following these sessions, the product designer and I collaborated on a prototype to validate in 5 initial user testing sessions. 
 
@@ -39,13 +39,31 @@ To collect data at scale and validate, I proposed a large onsite experiment. The
 * the old and new version of the pages were vastly different, preventing an easy 1-1 comparison of a key metric
 * our point of view for this page went beyond mere conversion, therefore we’d need to evaluate several metrics to get a cohesive perspective on success
 I developed the table below to summarize our multiple goals for the page and various user types and aligned metrics to those goals. In partnership with the developers and our web analyst, I helped implement the tracking that would allow us to measure these variables. Not all of our variables were easily tracked in Google Analytics, so I had to think through Plan B and even Plan C options to get the tracking we needed to assess success. For example, we ended up relying on a heatmap tool to look at general engagement metrics like scroll rate. 
+
+<br></br> | Current page | Redesigned page
+------------ | ------------- | -------------
+**Evaluating content** | | 
+Can they see the preview? | Scroll rate | Click on preview
+Can they consult metadata? | Engagement time on metadata | Engagement time on metadata
+**Institutional access** | | 
+Can they get to institutional login? | Click on modal | Click on button
+Can they complete institutional login? | Conversion rate | Conversion rate
+**Independent access** | | 
+Can they get to preferred independent access method? | Login, register, or purchase | Login, register, or purchase
+Can they complete their access method? | Conversion rate | Conversion rate
+**Other metrics** | | 
+Bounce rate | It should decrease on the new page, since it is hypothetically a better experience with a clearer CTA
+Time on page | It could go up if users are spending more time evaluating content or down if it's easier to take the next action  
+Pathing data | What is the order of actions taken on the page? Are users toggling between access methods? 
+User support contact rate | We will work with support to monitor feedback on the new page  
+
 Following the experiment period, I had a lot of data analysis work on my hands. I chased down the numbers we needed, tested for statistical significance, and analyzed them to tell a story of what we had learned about the redesigned page, with a focus on recommendations for future implementation.
 
 ## Impact
 
 * On a more abstract level, this initiative helped me and the team create a point of view for this highly trafficked page that was backed by evidence—both quantitative and qualitative—instead of preconceived notions. This foundation allowed us to optimize and make adjustments to this page with a few ultimate metrics and goals in mind to guide us.
 * The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by 2.5%, a pretty big and statistically significant uplift. 
-<img src="/images/Screen Shot 2020-06-27 at 2.31.06 PM.png" width="275">
+<img src="/images/Screen Shot 2020-06-27 at 2.31.06 PM.png" width="325">
 
 ## Reflections
 
