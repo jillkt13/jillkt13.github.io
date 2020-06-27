@@ -10,7 +10,7 @@
 <img src="images/group.png" width="300"> 
 
 ---
-[Project 3 Title](http://example.com/)
+#### [Project 3 Title](/urp_redesign)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
