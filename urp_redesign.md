@@ -15,15 +15,17 @@ This page is so complicated because it has to do a lot of different things. It n
 
 ### Design Jam
 
-Given the ambition of this project, I argued in favor of leading a design sprint for our entire team. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I did a lot of preliminary work pulling together prior research, quantitative data, and heatmap data. By doing so, I built our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. 
+Given the ambition of this project, I argued in favor of leading a design sprint for our entire team. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I did a lot of preliminary work pulling together prior research, quantitative data, and heatmap data. By doing so, I built our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
 
-PUT POST-IT NOTE HERE OF PROBLEM STATEMENT
+<img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="275">
 
 During the design sprint, I led sessions focused on understanding prior research on the page, detailing user journeys, developing a problem statement for this work, and sketching exercises. Following these sessions, the product designer and I collaborated on a prototype to validate in 5 initial user testing sessions. 
 
 Finally, I led a user testing watch party with 10 colleagues involved in this work. Based on the findings of the team during this watch party, we emerged from the design sprint with a bunch of ideas to revise our prototype and test with more users. 
 
 ### More user testing
+
+<img src="/images/Screen Shot 2020-06-27 at 2.15.26 PM.png" width="275">
 
 For our next round of testing, I established a list of three things that all users must successfully be able to do on the redesigned page:
 1. Can they evaluate the content to decide if they want the full article?
@@ -41,8 +43,9 @@ Following the experiment period, I had a lot of data analysis work on my hands. 
 
 ## Impact
 
-* The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by 2.5%, a pretty big and statistically significant uplift.
 * On a more abstract level, this initiative helped me and the team create a point of view for this highly trafficked page that was backed by evidence—both quantitative and qualitative—instead of preconceived notions. This foundation allowed us to optimize and make adjustments to this page with a few ultimate metrics and goals in mind to guide us.
+* The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by 2.5%, a pretty big and statistically significant uplift. 
+<img src="/images/Screen Shot 2020-06-27 at 2.31.06 PM.png" width="275">
 
 ## Reflections
 
