@@ -17,7 +17,7 @@ This page is so complicated because it has to do a lot of different things. It n
 
 Given the ambition of this project, I argued in favor of leading a design sprint for our entire team. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I did a lot of preliminary work pulling together prior research, quantitative data, and heatmap data. By doing so, I built our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
 
-<img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="2225">
+<img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="225">
 
 During the design sprint, I led sessions focused on understanding prior research on the page, detailing user journeys, developing a problem statement for this work, and sketching exercises. Following these sessions, the product designer and I collaborated on a prototype to validate in 5 initial user testing sessions. 
 
