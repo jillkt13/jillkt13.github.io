@@ -1,70 +1,50 @@
-# Contextualizing new content types
+# Redesigning our main conversion landing page
 
-Due to strategic business changes, JSTOR, traditionally a host of academic content like journal articles, was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from academic publishers, but individual contributors with potentially laxer standards regarding content curation. 
+For years, one page on our website has been a white whale. The conversion landing page is essentially the “Access denied” page on our website. Users will see this page if they are not authenticated to get access to the content on the page. It accounts for 55% of all incoming traffic to the site and had a bounce rate of nearly 75%. 
+This page is so complicated because it has to do a lot of different things. It needs to simultaneously communicate to the user that: 
+* they have arrived at content
+* they do not currently have access to the content
+* they have certain actions to take to get the content, depending on whether they are affiliated with an academic institution or whether they are an independent researcher
 
-To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to identify complementary information that would be helpful to users when encountering these new types of content. 
+**My challenge:**  Provide the context and research necessary to completely overhaul this page so that users are able to get access to the content if they want it. 
 
-**My challenge:** Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of our site’s curation over decades and enriching our overall content offering for users
-
-**My Contribution:** project scope, survey design, study design, protocol development, moderation, data analysis, presentation
+**My Contribution:** project scope, facilitation, product strategy, analytics implementation, interview moderation, wireframes, web analytics, impact mapping
 
 
 ## Method and Approach
 
-Put high level graphic of the three stages here. 
-
 ### Design Jam
 
-<img src="/images/jam_small_photo.png" width="300">
+Given the ambition of this project, I argued in favor of leading a design sprint for our entire team. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I did a lot of preliminary work pulling together prior research, quantitative data, and heatmap data. By doing so, I built our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. 
 
-By analyzing prior research, we identified the categories of authority, quality, curation, provenance, and access as being potentially significant information to signal to users in a multi-content environment. The design and research teams then sketched ideas of how we might communicate these five categories on the content page. After the jam, I reviewed all the ideas and developed a list of possible contextual information to signal to users. 
+PUT POST-IT NOTE HERE OF PROBLEM STATEMENT
 
-### Survey
+During the design sprint, I led sessions focused on understanding prior research on the page, detailing user journeys, developing a problem statement for this work, and sketching exercises. Following these sessions, the product designer and I collaborated on a prototype to validate in 5 initial user testing sessions. 
 
-Coming out of the design jam, I had a list of over 30 pieces of information that we could communicate to users. We had gone from zero ideas to too many ideas. Therefore, I designed a survey asking users to rank the information most important to them when evaluating content on our website. 
+Finally, I led a user testing watch party with 10 colleagues involved in this work. Based on the findings of the team during this watch party, we emerged from the design sprint with a bunch of ideas to revise our prototype and test with more users. 
 
-I analyzed over 300 responses to sort the information into three categories: Highest importance, Medium importance, and Lowest importance. After taking into account business needs as well as our technical capacity, I decided upon seven items of contextual information to communicate on our content page and worked with two designers on possible UI elements for signaling the information.
+### More user testing
 
-High importance | Medium importance | Low importance
------------- | ------------- | -------------
-Type of content | Rights of use | Number of views
-Date of creation | Part of a broader collection | Current location
-Similar items on JSTOR | Quality of item | Who acquired
-Where it's originally from | Rights of consumption | Current curator of item
+For our next round of testing, I established a list of three things that all users must successfully be able to do on the redesigned page:
+1. Can they evaluate the content to decide if they want the full article?
+2. Can they determine whether or not they have access to the full article?
+3. Can they take the necessary steps to get access to the full article?
+I conducted several user testing sessions where users were presented two versions of the redesign and given tasks to evaluate their success on the above goals. A clear winner emerged from this testing, which led some members of the team to push for implementing the new design and begin optimizing smaller items on the page, like button copy. Given the importance of this page and its massive amount of traffic, we knew we needed more testing.
 
-### User interviews and mapping activity (Remote and in-person)
+### Experiment
 
-At this point, I started to think through how to test these designs with users. What I really wanted to know was whether the inputs matched the outputs. That is, we had conducted the design jam and developed a list of information to signal based on our internally stated goal of communicating the authority, curation, access, quality, and provenance of content. If we were successful, users should be able to link information found in the UI to these broader overarching concepts. 
-
-I conducted 11 interviews with students, faculty, and researchers: 5 in-person and 6 remote. I started with semi-structured questions, asking participants what information was most important to them when evaluating content for academic work. 
-
-Some questions from the interview guide:
-> When looking at content on JSTOR, how do you evaluate the content? What information are you looking at? 
-<br> <br>
-> What is the most meaningful information?
-<br> <br>
-> How does that information indicate the "authority" of the content to you?
-<br> <br>
-> Is there any contextual information that's not here that you would like to see? 
-<br> <br>
-
-The second portion of the interview was an interactive mapping exercise, where participants were presented a prototype with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. 
-
-<pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.21.50 AM.png" width="250"> </pre>
-
+To collect data at scale and validate, I proposed a large onsite experiment. The development team began work on an MVP-version of the redesigned page. I built out an extensive experiment plan. While some team members pushed for a simple a/b test focused on a single metric, I argued for an expanded scope to the experiment. I felt that the page was complex enough that it merited a more profound investigation than looking at uplift in conversion rate. In particular, I argued for a larger-scale experiment because: 
+* the old and new version of the pages were vastly different, preventing an easy 1-1 comparison of a key metric
+* our point of view for this page went beyond mere conversion, therefore we’d need to evaluate several metrics to get a cohesive perspective on success
+I developed the table below to summarize our multiple goals for the page and various user types and aligned metrics to those goals. In partnership with the developers and our web analyst, I helped implement the tracking that would allow us to measure these variables. Not all of our variables were easily tracked in Google Analytics, so I had to think through Plan B and even Plan C options to get the tracking we needed to assess success. For example, we ended up relying on a heatmap tool to look at general engagement metrics like scroll rate. 
+Following the experiment period, I had a lot of data analysis work on my hands. I chased down the numbers we needed, tested for statistical significance, and analyzed them to tell a story of what we had learned about the redesigned page, with a focus on recommendations for future implementation.
 
 ## Impact
 
-* Internally, our organization felt that these changes to content type would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with evidence of what users want. 
-* I socialized the above learning very widely: Show and Tell, org-wide Lunch and Learn, and ad hoc meetings with Product Managers. As a result, product teams working to redesign follow two principles I developed: 
-  1. Content is king! Despite the drastic changes to the types of content on our platform, the content—as opposed to accompanying contextual information—should remain the focus. 
-  2. Contextual information should be discoverable on the content page for those who want it, but not distract from the majority of users who are not looking for it
+* The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by 2.5%, a pretty big and statistically significant uplift.
+* On a more abstract level, this initiative helped me and the team create a point of view for this highly trafficked page that was backed by evidence—both quantitative and qualitative—instead of preconceived notions. This foundation allowed us to optimize and make adjustments to this page with a few ultimate metrics and goals in mind to guide us.
 
 ## Reflections
 
-* *Evaluate your assumptions earlier*, rather than later: From the get go, we designed with the goal of communicating the ideas of authority, curation, access, provenance, and quality on the content page. Our research team had decided on these five categories after synthesizing years of prior user feedback. When we finally put these categories in front of users, however, their mental models didn’t correspond to these five categories. Learning that users don’t think of content in this way ended up being one of the most valuable insights from this project, though we probably could have discovered it much earlier if we had spoken to users earlier in the process.
-* *Your ideal method isn’t always possible*: I was set on conducting a sort of first click test using Optimal Workshop. But when the tool simply couldn’t fit the exact need, I had to go back to the drawing board. I was frustrated, but the method I eventually decided on probably led to much richer data, answering not only “what” but also “why”. 
-
-
-
-
+* *Collaboration is key:* I argued in favor of including more participants than just our product development team in the design sprint. We had representatives from Marketing, User Support (who field hundreds of complaints on the conversion page every year), and the Content (who liaise with publishers to set the access restrictions on this page). Their perspectives were so valuable as we brainstormed the goals and metrics that indicate success for this page. Later on in the process, collaboration with the web analyst was invaluable in developing an effective and complex experiment plan.
+* *Lean into complexity:* Previous attempts to redesign this page focused solely on the conversion rate. It was seen as the Access Denied page, and the assumption was that to be successful, this page simply needed to get people into the funnel and grant them one of our site’s forms of access. But my careful work in pulling together previous data on this page allowed us to reimagine our point of view for this page, positioning it as not only a conversion page but also a place for people to evaluate content metadata and previews. I also was careful to note that because of our site’s complex access model, this page had to serve users with multiple types of access (or no access, for that matter). This complexity made our job a lot harder, but it also helped us look at this page and our success criteria for it with clear eyes. By acknowledging its complexity—and designing and researching for that complexity—we were able to develop a solution that met more of the needs of more of our users. 
