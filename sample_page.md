@@ -11,8 +11,6 @@ To meet one of our product OKRs, I conducted exploratory research to understand 
 
 ## Method and Approach
 
-Put high level graphic of the three stages here. 
-
 ### Design Jam
 
 <img src="/images/jam_small_photo.png" width="300">
