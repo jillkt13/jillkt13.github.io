@@ -1,6 +1,23 @@
 ## Portfolio
 
 ---
+[![Contextualizing new content types](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-27 at 3.37.15 PM.png "Contextualizing new content types")](https://jillkt13.github.io/sample_page)
+
+[![Creating a vision for a key conversion page redesign](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-27 at 3.37.45 PM.png "Creating a vision for a key conversion page redesign")](https://jillkt13.github.io/urp_redesign)
+
+[![Foundational user demographic research](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-27 at 3.37.54 PM.png "Foundational user demographic research")](https://jillkt13.github.io/demographic_survey)
+
+[![Building an inclusive and evidence-based user recruiting strategy](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-27 at 3.37.31 PM.png "Building an inclusive and evidence-based user recruiting strategy")](https://jillkt13.github.io/recruiting_strategy)
+
+
+
+
+
+
+
+
+
+
 
 #### [Contextualizing new content types](/sample_page)
 <img src="images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="300">
