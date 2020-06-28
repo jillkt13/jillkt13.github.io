@@ -25,13 +25,13 @@ Finally, I led a user testing watch party with 10 colleagues involved in this wo
 
 ### More user testing
 
-<img src="/images/Screen Shot 2020-06-27 at 2.15.26 PM.png" width="275">
-
 For our next round of testing, I established a list of three things that all users must successfully be able to do on the redesigned page:
 1. Can they evaluate the content to decide if they want the full article?
 2. Can they determine whether or not they have access to the full article?
 3. Can they take the necessary steps to get access to the full article?
 I developed a list of tasks to evaluate success on the above goals and conducted several user testing sessions where users were presented two versions of the redesigned page. A clear winner emerged from this testing, which led some members of the team to push for implementing the new design and begin optimizing smaller items on the page, like button copy. Given the importance of this page and its massive amount of traffic, I pushed for more testing.
+
+<img src="/images/Screen Shot 2020-06-27 at 2.15.26 PM.png" width="275">
 
 ### Experiment
 
@@ -40,7 +40,7 @@ To collect data at scale and validate, I proposed a large onsite experiment. The
 * our point of view for this page went beyond mere conversion, therefore we’d need to evaluate several metrics to get a cohesive perspective on success
 I developed the table below to summarize our multiple goals for the page and various user types and aligned metrics to those goals. In partnership with the developers and our web analyst, I helped implement the tracking that would allow us to measure these variables. Not all of our variables were easily tracked in Google Analytics, so I had to think through Plan B and even Plan C options to get the tracking we needed to assess success. For example, we ended up relying on a heatmap tool to look at general engagement metrics like scroll rate. 
 
-<img src="/images/Screen Shot 2020-06-27 at 3.04.28 PM.png" width="325">
+<img src="/images/Screen Shot 2020-06-27 at 3.04.28 PM.png" width="500">
 
 Following the experiment period, I had a lot of data analysis work on my hands. I chased down the numbers we needed, tested for statistical significance, and analyzed them to tell a story of what we had learned about the redesigned page, with a focus on recommendations for future implementation.
 
