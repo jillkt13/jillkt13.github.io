@@ -4,10 +4,9 @@ Due to strategic business changes, JSTOR, traditionally a host of academic conte
 
 To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to identify complementary information that would be helpful to users when encountering these new types of content. 
 
-**My challenge:** Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of our site’s curation over decades and enriching our overall content offering for users
+**My challenge:** Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of the site’s curation over decades and enriching the overall content offering for users
 
 **My Contribution:** project scope, survey design, study design, protocol development, moderation, data analysis, presentation
-
 
 ## Method and Approach
 
@@ -15,13 +14,13 @@ To meet one of our product OKRs, I conducted exploratory research to understand 
 
 <img src="/images/jam_small_photo.png" width="300">
 
-By analyzing prior research, we identified the categories of authority, quality, curation, provenance, and access as being potentially significant information to signal to users in a multi-content environment. The design and research teams then sketched ideas of how we might communicate these five categories on the content page. After the jam, I reviewed all the ideas and developed a list of possible contextual information to signal to users. 
+By analyzing prior research, we identified the categories of authority, quality, curation, provenance, and access as potentially significant information to signal to users in a multi-content environment. The design and research teams then sketched ideas of how to communicate these five categories on the content page. After the jam, I reviewed all the ideas and developed a list of possible contextual information to signal to users. 
 
 ### Survey
 
-Coming out of the design jam, I had a list of over 30 pieces of information that we could communicate to users. We had gone from zero ideas to too many ideas. Therefore, I designed a survey asking users to rank the information most important to them when evaluating content on our website. 
+Coming out of the design jam, I had a list of over 30 pieces of information that we could communicate to users. We had gone from zero ideas to too many ideas. Therefore, I designed a survey asking users to rank the information most important to them when evaluating content on the site. 
 
-I analyzed over 300 responses to sort the information into three categories: Highest importance, Medium importance, and Lowest importance. After taking into account business needs as well as our technical capacity, I decided upon seven items of contextual information to communicate on our content page and worked with two designers on possible UI elements for signaling the information.
+I analyzed over 500 responses to sort the information into three categories: Highest importance, Medium importance, and Lowest importance. After taking into account business needs as well as our technical constraints, I decided upon seven items of contextual information to communicate on the content page and worked with two designers on possible UI elements for signaling the information.
 
 High importance | Medium importance | Low importance
 ------------ | ------------- | -------------
@@ -50,7 +49,6 @@ The second portion of the interview was an interactive mapping exercise, where p
 
 <pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.21.50 AM.png" width="250"> </pre>
 
-
 ## Impact
 
 * Internally, our organization felt that these changes to content type would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with evidence of what users want. 
@@ -60,19 +58,5 @@ The second portion of the interview was an interactive mapping exercise, where p
 
 ## Reflections
 
-* *Evaluate your assumptions earlier*, rather than later: From the get go, we designed with the goal of communicating the ideas of authority, curation, access, provenance, and quality on the content page. Our research team had decided on these five categories after synthesizing years of prior user feedback. When we finally put these categories in front of users, however, their mental models didn’t correspond to these five categories. Learning that users don’t think of content in this way ended up being one of the most valuable insights from this project, though we probably could have discovered it much earlier if we had spoken to users earlier in the process.
+* *Evaluate your assumptions earlier, rather than later:* From the get go, we designed with the goal of communicating the ideas of authority, curation, access, provenance, and quality on the content page. Our research team had decided on these five categories after synthesizing years of prior user feedback. When we finally put the categories in front of users, however, their mental models didn’t correspond to these five categories. Learning that users don’t think of content in this way ended up being one of the most valuable insights from this project, though we probably could have discovered it much earlier if we had spoken to users earlier in the process.
 * *Your ideal method isn’t always possible*: I was set on conducting a sort of first click test using Optimal Workshop. But when the tool simply couldn’t fit the exact need, I had to go back to the drawing board. I was frustrated, but the method I eventually decided on probably led to much richer data, answering not only “what” but also “why”. 
-
-
-
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
