@@ -1,4 +1,4 @@
-# Redesigning our main conversion landing page
+# Redesigning a main conversion landing page
 
 For years, one page on the JSTOR website had been a white whale. The conversion landing page is essentially the “Access denied” page on the site. Users see this page if they are not authenticated to see the content on the page. It accounts for 55% of all incoming traffic to the site and had a bounce rate of nearly 75%. 
 This page is complicated because it has to do a lot of different things. It needs to simultaneously communicate to the user that: 
@@ -15,7 +15,7 @@ This page is complicated because it has to do a lot of different things. It need
 
 ### Design Jam
 
-Given the ambition of this project, I argued in favor of leading a design sprint. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I pulled together prior research, quantitative data, and heatmap data in order to build our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from that goal: they wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
+Given the ambition of this project, I argued in favor of leading a design sprint. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I pulled together prior research, quantitative data, and heatmap data in order to build our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from the business goal: users wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
 
 <img src="/images/Screen Shot 2020-06-27 at 2.39.09 PM.png" width="225">
 
@@ -35,7 +35,7 @@ I developed a list of tasks to evaluate success on the above goals and conducted
 
 ### Experiment
 
-To collect data at scale and validate, I proposed a large onsite experiment. The development team began work on an MVP-version of the redesigned page. I built out an extensive experiment plan. While some team members pushed for a simple a/b test focused on a single metric, I favored an expanded scope to the experiment. I felt that the page was complex enough that it merited a more profound investigation than simply looking at uplift in conversion rate. In particular, a larger-scale experiment was necessary because:
+To collect data at scale and validate, I proposed a large onsite experiment. The development team began work on an MVP-version of the redesigned page, and I built out an extensive experiment plan. While some team members pushed for a simple a/b test focused on a single metric, I favored an expanded scope to the experiment. My opinion was that due to the complexity of the page, it merited a more profound investigation than simply looking at uplift in conversion rate. In particular, a larger-scale experiment was necessary because:
 * the old and new version of the pages were vastly different, preventing an easy 1-1 comparison of a key metric
 * our point of view for this page went beyond mere conversion, therefore we’d need to evaluate several metrics to get a cohesive perspective on success
 I developed the table below to summarize our multiple goals for the page and various user types and aligned metrics to those goals. In partnership with the developers and our web analyst, I helped implement the tracking that would allow us to measure these variables. Not all of our variables were easily tracked in Google Analytics, so I had to think through Plan B and even Plan C options to get the tracking we needed to assess success. For example, we ended up relying on a heatmap tool to look at general engagement metrics like scroll rate. 
