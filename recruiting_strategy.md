@@ -18,10 +18,8 @@ As a newcomer to the company, I scheduled 10 interviews with key stakeholders in
 Based on these internal interviews, I developed a recruiting strategy to ensure our participants represented the demographics that we actually considered to be significant audiences. For example, I found that international users were seen to be drivers of growth and an important user base; however, our research team had spoken to less than 10 international users over the past year. Therefore, one pillar of the strategy was to speak to 20% of participants from outside of English-speaking countries. 
 
 *Guiding principles for user recruiting*
-> Ensure diverse representation in user studies, paying close attention to foreign users and users from institutions of varied size and reputation. Only 35% of users come from the US, yet they represent a majority of the users contacted for studies
-<br></br>
-> Prioritize users in the social sciences, humanities, and Art/Art History. JSTOR and Artstor are already known and loved among these disciplines. Since much of the new content will touch on these subject areas in the initial stages, we should recommit to getting input from these users
-<br></br>
+> Ensure diverse representation in user studies, paying close attention to foreign users and users from institutions of varied size and reputation. Only 35% of users come from the US, yet they represent a majority of the users contacted for studies <br>
+> Prioritize users in the social sciences, humanities, and Art/Art History. JSTOR and Artstor are already known and loved among these disciplines. Since much of the new content will touch on these subject areas in the initial stages, we should recommit to getting input from these users <br>
 > Be as specific as possible. Even within a slightly narrowed group like “advanced researchers,” there exists vast diversity in experience, discipline, workflows, and needs. 
 
 ### Implementation and monitoring
