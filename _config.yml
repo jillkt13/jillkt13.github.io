@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdaM0dB94QPEt9lZqslmL7no4zA9TQ5sY0UnriuiNYZ7fjk-w/viewform?usp=sf_link">Contact Me</a> | <a href="https://drive.google.com/file/d/1kZpFV_2Q4WUg9XOAYFo0Le7BWypJrwhb/view?usp=sharing">Résumé (English)</a> | <a href="https://drive.google.com/file/d/1xZHNhVsn_y7vSoyvSRnOhmFjJgMpKUky/view?usp=sharing">CV (français)</a>
   <br>
   <br>
-  Here is an <a href="https://ethn.io/blog/ithaka_mobile">article</a> I published about some research at my current company Ithaka. 
+  Here is an <a href="https://ethn.io/blog/ithaka_mobile">article</a> I published about some research at my current company. 
 google_analytics: UA-171045601-1 # your Google Analytics tracking ID here
 theme: jekyll-theme-minimal
 
