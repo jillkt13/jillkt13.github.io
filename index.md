@@ -7,12 +7,10 @@ Here is an <a href="https://ethn.io/blog/ithaka_mobile">article</a> I published 
 I have studied and worked in both the United States and France. Please [contact me](https://docs.google.com/forms/d/e/1FAIpQLSdaM0dB94QPEt9lZqslmL7no4zA9TQ5sY0UnriuiNYZ7fjk-w/viewform?usp=sf_link) with opportunities in User Research, Product Management, and UX Strategy in either of the countries. 
 
 ## Portfolio
-[![Contextualizing new content types](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/P1.jpg "Contextualizing new content types")](https://jillkt13.github.io/sample_page)
-
-[![Creating a vision for a key conversion page redesign](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/P2.jpg "Creating a vision for a key conversion page redesign")](https://jillkt13.github.io/urp_redesign)
-
-[![Foundational user demographic research](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/P3.jpg "Foundational user demographic research")](https://jillkt13.github.io/demographic_survey)
-
-[![Building an inclusive and evidence-based user recruiting strategy](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/P4.jpg "Building an inclusive and evidence-based user recruiting strategy")](https://jillkt13.github.io/recruiting_strategy)
-
 [![Contextualizing new content types](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-29 at 9.44.23 AM.png "Contextualizing new content types")](https://jillkt13.github.io/sample_page)
+
+[![Creating a vision for a key conversion page redesign](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-29 at 9.44.47 AM.png "Creating a vision for a key conversion page redesign")](https://jillkt13.github.io/urp_redesign)
+
+[![Foundational user demographic research](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-29 at 9.45.03 AM.png "Foundational user demographic research")](https://jillkt13.github.io/demographic_survey)
+
+[![Building an inclusive and evidence-based user recruiting strategy](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/Screen Shot 2020-06-29 at 9.45.24 AM.png "Building an inclusive and evidence-based user recruiting strategy")](https://jillkt13.github.io/recruiting_strategy)
