@@ -1,6 +1,6 @@
 ## Hi, I'm Jill, a user researcher with experience in the United States and France.
 
-A former social science researcher who transitioned to UX Research, I execute quantitative and qualitative research studies to support design decisions and drive product initiatives. My favorite question is “Why?” and I use the answers to help make people's lives easier and better. My greatest strength is transforming data into strategic principles and business impact. 
+A former social science researcher who transitioned to UX Research, I execute qualitative and quantitative research studies to support design decisions and drive product initiatives. My favorite question is “Why?” and I use the answers to help make people's lives easier and better. My greatest strength is transforming data into strategic principles and business impact. 
 
 Here is an <a href="https://ethn.io/blog/ithaka_mobile">article</a> I published about some research at my current company. 
 
