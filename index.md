@@ -9,7 +9,7 @@ I have studied and worked in both the United States and France. Please [contact 
 ## Portfolio
 [![Contextualizing new content types](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/TILE.png "Contextualizing new content types")](https://jillkt13.github.io/sample_page)
 
-[![Creating a vision for a key conversion page redesign](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/TILE2.png at 9.44.47 AM.png "Creating a vision for a key conversion page redesign")](https://jillkt13.github.io/urp_redesign)
+[![Creating a vision for a key conversion page redesign](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/TILE2.png "Creating a vision for a key conversion page redesign")](https://jillkt13.github.io/urp_redesign)
 
 [![Foundational user demographic research](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/TILE3.png "Foundational user demographic research")](https://jillkt13.github.io/demographic_survey)
 
