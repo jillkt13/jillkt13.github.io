@@ -47,8 +47,7 @@ Following the experiment period, I had a lot of data analysis work on my hands. 
 ## Impact
 
 * On a more abstract level, this initiative helped me and the team create a point of view for this highly trafficked page that was backed by evidence—both quantitative and qualitative—instead of preconceived notions. This foundation allowed us to optimize and make adjustments to this page with a few ultimate metrics and goals in mind to guide us.
-* The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by 2.5%, a pretty big and statistically significant uplift. 
-<img src="/images/Screen Shot 2020-06-27 at 2.31.06 PM.png" width="850">
+* The final results of the experiment showed great success. The bounce rate decreased by 13%, meaning the redesign was more successful in supporting users to evaluate the content and decide if they’d like to view the full article and therefore also more successful in getting more users into the conversion funnel. The conversion rate for users with institutional access increased by nearly 3%, a statistically significant uplift. 
 
 ## Reflections
 
