@@ -13,7 +13,7 @@ This page is complicated because it has to do a lot of different things. It need
 
 ## Method and Approach
 
-### Design Jam
+### Design Sprint
 
 Given the ambition of this project, I argued in favor of leading a design sprint. I adapted the typical design sprint framework to meet our needs as a team. I built out an entire agenda for 4 half-days of focused design research work. Before the design sprint commenced, I pulled together prior research, quantitative data, and heatmap data in order to build our current understanding of the page in order to design for the future. This background research was crucial for the direction we took for the page. We learned that while our business goal for this page was to convert academic institution users, the typical user goal on this page was upstream from the business goal: users wanted to preview and evaluate the content before taking any action to get full access. With that in mind, the designer and I developed the following problem statement:
 
