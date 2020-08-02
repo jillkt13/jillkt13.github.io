@@ -52,12 +52,7 @@ The second portion of the interview was an interactive mapping exercise, where p
 The artifacts above emerged from the mapping exercise. I analyzed them to develop an actionable list of information and UI elements that best helped users understand and contextualize content. I also created and shared a summary of how users evaluate content more generally in order to inform all future design work on the content pages. 
 
 #### UI Elements most successful in signaling certain categories
-| Authority | Access | Curation | Provenance | Quality |
-| ------------ | ------------- | ------------- | ------------- | ------------- |
-| JSTOR logo | Download button | In this Journal section | Author | Content itself |
-| Author's name | Rights section | In this Collection section | Institution/Journal logo and name | |
-| Institution/Journal logo and name |  | Item details | Publication details | |
-| Publication details section | | | Collection details | |
+<img src="/images/Screen Shot 2019-10-01 at 9.45.24 AM.png">
 
 ## Impact
 
