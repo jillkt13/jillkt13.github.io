@@ -1,6 +1,6 @@
 # Contextualizing new content types
 
-Due to strategic business changes, JSTOR, traditionally a host of text-based academic content like journal articles, was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from trusted academic publishers, but individual contributors with potentially laxer standards regarding the curation and quality of their content. 
+JSTOR is a nonprofit academic database that traditionally hosts text-based academic content like journal articles. Due to strategic business changes, JSTOR was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from trusted academic publishers, but individual contributors with potentially laxer standards regarding the curation and quality of their content. 
 
 To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to assess the risks as well as to identify complementary information that would be helpful to users when encountering these new types of content. 
 
