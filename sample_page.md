@@ -2,6 +2,8 @@
 
 JSTOR is a nonprofit academic database that traditionally hosts text-based academic content like journal articles. Due to strategic business changes, JSTOR was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from trusted academic publishers, but individual contributors with potentially laxer standards regarding the curation and quality of their content. 
 
+Internally, this transformation was seen as risky and we didn't know how users would accept the changes. 
+
 To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to assess the risks as well as to identify complementary information that would be helpful to users when encountering these new types of content. 
 
 **My challenge:** Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of the site’s reputation and curation over the past decades
