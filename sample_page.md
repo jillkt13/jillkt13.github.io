@@ -4,9 +4,9 @@ JSTOR is a nonprofit academic database that traditionally hosts text-based acade
 
 Internally, this transformation was seen as risky and we didn't know how users would accept the changes since they expected very academic and text-based resources on the site. 
 
-To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to assess the risks as well as to identify complementary information that would be helpful to users when encountering these new types of content. 
+To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to help the users  as well as to identify complementary information that would be helpful to users when encountering these new types of content. 
 
-**My challenge:** Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of the site’s reputation and curation over the past decades
+**My challenge:**  Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of the site’s reputation and curation over the past decades
 
 ## Method and Approach
 
