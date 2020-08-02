@@ -14,7 +14,7 @@ To meet one of our product OKRs, I conducted exploratory research to understand 
 
 <img src="/images/jam_small_photo.png" width="300">
 
-When assigned to this project, I was given a summary of prior research done by other team members. In this analysis, they had identified the categories of Authority, Quality, Curation, Provenance, and Access of the content as potentially significant information to signal to users. 
+When assigned to this project, I was given a summary of prior research done by other team members. In this analysis, they had identified the categories of Authority, Quality, Curation, Provenance, and Access of the content as potentially significant information to signal to users. For example, if the user encountered an image on JSTOR for the first time, this might be jarring to them and they might be suspicious of the reliability of the content, but if we provided information indicating its Authority and Curation (e.g., it came from a collection from a renowned art museum), the user would be reassured. 
 
 The design and research teams then sketched ideas of how to communicate these five abstract categories on the content page. After the jam, I reviewed the ideas and developed a list of possible contextual information to signal to users that would help them understand the Authority, Quality, Curation, Provenance, and Access to the content. 
 
