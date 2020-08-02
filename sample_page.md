@@ -14,7 +14,7 @@ To meet one of our product OKRs, I conducted exploratory research to understand 
 
 <img src="/images/jam_small_photo.png" width="300">
 
-To guide this research, our UX team had identified five important elements to help orient a user encountering new content on the site: Authority, Quality, Curation, Provenance, and Access. For example, if the user encountered an image on JSTOR for the first time, they might feel suspicious or confused by the content; however, if we provided information indicating its Authority and Curation (e.g., it came from a collection from a renowned art museum), the user would be reassured. 
+To guide this research, our UX team had identified five important elements to help orient a user encountering new content on the site: Authority, Quality, Curation, Provenance, and Access. For example, if the user encountered an image on JSTOR for the first time, they might feel suspicious or confused by the content; however, if we provided information indicating its Authority and Curation (e.g., it came from a collection from a renowned art museum), the user would be reassured and continue to trust JSTOR for their research needs. 
 
 The design and research teams then sketched ideas of how to communicate these five abstract categories on the content page. After the jam, I reviewed the ideas and developed a list of possible contextual information to signal to users that would help them understand the Authority, Quality, Curation, Provenance, and Access of the content. 
 
