@@ -58,8 +58,8 @@ The artifacts above emerged from the mapping exercise. I analyzed them to develo
 
 ## Impact
 
-* Internally, our organization felt that these changes in content type and curation would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with greater confidence that it would meet users' needs. 
-* I socialized the above learning very widely, including an organization-wide meeting and ad hoc meetings with several Product Managers. As a result, product teams working to redesign the content page follow two principles I developed: 
+* As a result of this research, the organization is moving forward and adding new types of content to JSTOR. Internally, our organization felt that these changes in content type and curation would be very jarring for users. But this research showed that users are mostly concerned with relevance, i.e., finding the content most useful to them. Extra information, while occasionally appreciated, was just that—extra. By interrogating this assumption, our organization was able to work on this new strategic initiative with greater confidence that it would meet users' needs. 
+* I socialized the learning that users are primarily concerned by relevance very widely, including an organization-wide meeting and ad hoc meetings with several Product Managers. As a result, product teams working to redesign the content page follow two principles I developed: 
   1. Content is king! Despite the drastic changes to the types of content on our platform, the content—as opposed to accompanying contextual information—should remain the focus. 
   2. Contextual information should be discoverable on the content page for those who want it, but not distract from the majority of users who are not looking for it
 
