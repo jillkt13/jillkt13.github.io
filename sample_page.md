@@ -1,10 +1,10 @@
 # Contextualizing new content types
 
-JSTOR is a nonprofit academic database that traditionally hosts text-based academic content like journal articles. Due to strategic business changes, JSTOR was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from trusted academic publishers, but individual contributors with potentially laxer standards regarding the curation and quality of their content. 
+JSTOR is a nonprofit academic database that had traditionally hosted text-based academic content like journal articles. Due to strategic business changes, JSTOR was moving to a more diverse multi-content model, including video, audio, and images. Furthermore, this content would no longer come from trusted academic publishers, but individual contributors with potentially laxer standards regarding the curation and quality of their content. 
 
-Internally, this transformation was seen as risky and we didn't know how users would accept the changes since they expected very academic and text-based resources on the site. 
+Internally, this transformation was seen as risky. The organization was worried that users might be confused by the changes since they expected academic and text-based resources on the site. 
 
-To meet one of our product OKRs, I conducted exploratory research to understand how our users might contextualize these changes. My goal was to help the users  as well as to identify complementary information that would be helpful to users when encountering these new types of content. 
+To meet one of our product OKRs, I conducted exploratory research to learn how best to support and reassure users in the face of these changes. More specifically, my goal was to identify contextual information that would be helpful to users when encountering these new types of content. 
 
 **My challenge:**  Identify complementary information that would signal the differences in new content to the JSTOR platform, while also maintaining the value of the site’s reputation and curation over the past decades
 
@@ -47,11 +47,11 @@ Some questions from the interview guide:
 > Is there any contextual information that's not here that you would like to see? 
 <br> <br>
 
-The second portion of the interview was an interactive mapping exercise, where participants were presented three prototypes with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. They were given definitions of the each category as well as a corresponding sticker color. So when something in the UI indicated Authority to them, they'd place a blue sticker. 
+The second portion of the interview was an interactive mapping exercise where participants were presented three prototypes with three different content types—image, primary source, and journal article—and asked to place stickers on UI elements that signaled Authority, Curation, Access, Quality, and Provenance, all the while explaining why. They were given definitions of the each category as well as a corresponding sticker color. 
 
 <pre><img src="/images/Screen Shot 2020-06-25 at 11.17.30 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.17.40 AM.png" width="250">        <img src="/images/Screen Shot 2020-06-25 at 11.21.50 AM.png" width="250"> </pre>
 
-The artifacts above emerged from the mapping exercise. I analyzed them to develop an actionable list of information and UI elements that best helped users understand and contextualize content. I also created and shared a summary of how users evaluate content more generally in order to inform all future design work on the content pages. 
+The artifacts above emerged from the mapping exercise. I analyzed them to develop an actionable list of information and UI elements that best helped users understand and contextualize content. I also created a summary of how users evaluate content more generally in order to inform all future design work on the content pages. 
 
 #### UI Elements most successful in signaling certain categories
 <img src="/images/Screen Shot 2019-10-01 at 9.45.24 AM.png">
@@ -66,4 +66,4 @@ The artifacts above emerged from the mapping exercise. I analyzed them to develo
 ## Reflections
 
 * *Evaluate your assumptions earlier, rather than later:* From the get go, we designed with the goal of communicating the ideas of authority, curation, access, provenance, and quality on the content page. Our research team had decided on these five categories after synthesizing years of prior user feedback. When we finally put the categories in front of users, however, their mental models didn’t correspond to these five categories. Learning that users don’t think of content in this way ended up being one of the most valuable insights from this project, though I probably could have discovered it much earlier if I had spoken to users earlier in the process.
-* *Your ideal method isn’t always possible*: I was set on conducting a sort of first click test using Optimal Workshop. But when the tool simply couldn’t fit the exact need, I had to go back to the drawing board. I was frustrated, but the method I eventually decided on probably led to much richer data, answering not only “what” but also “why”. 
+* *Your ideal method isn’t always possible*: I was set on conducting a first click test using Optimal Workshop. But after testing the tool and realizing it couldn't fit my exact need, I had to go back to the drawing board. I was frustrated, but the mapping exercise method I eventually decided on probably led to much richer data, answering not only “what” but also “why”. 
