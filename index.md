@@ -6,7 +6,7 @@ Here is an <a href="https://ethn.io/blog/ithaka_mobile">article</a> I published 
 
 I have studied and worked in both the United States and France. Please [contact me](https://docs.google.com/forms/d/e/1FAIpQLSdaM0dB94QPEt9lZqslmL7no4zA9TQ5sY0UnriuiNYZ7fjk-w/viewform?usp=sf_link) with opportunities in User Research, Product Management, and UX Strategy in either of the countries. 
 
-(Voilà une [une version française](https://drive.google.com/file/d/17elf_3VFS_ZlCGIXTo-wPVC_9UOaWQAx/view?usp=sharing) des projets de mon portfolio ci-dessus en anglais!)
+(Voilà une [une version française](https://drive.google.com/file/d/17elf_3VFS_ZlCGIXTo-wPVC_9UOaWQAx/view?usp=sharing) des projets de mon portfolio disponsibles ci-dessus en anglais!)
 
 ## Portfolio
 [![Contextualizing new content types](https://raw.githubusercontent.com/jillkt13/jillkt13.github.io/master/images/TILE.png "Contextualizing new content types")](https://jillkt13.github.io/sample_page)
